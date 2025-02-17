@@ -1,14 +1,25 @@
-# mobile
+# Mobile App Testing
 
-"Testing mobile applications"
+## Overview
+This repository contains test documentation for the **Shopping List** mobile app, tested in Android Studio using an emulator.
 
-https://docs.google.com/spreadsheets/d/1KuFU2ztJ3ePDMu2brAwNkCA4vxyw8TuN/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true
-https://drive.google.com/file/d/1d8XuKC8ur-9m08zRhn_TeRbh_6486MTs/view?usp=sharing
+## Test Documentation
 
+1. **Checklist** - [https://docs.google.com/spreadsheets/d/1KuFU2ztJ3ePDMu2brAwNkCA4vxyw8TuN/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true](#)
+   - Covers basic functionality testing of the application.
 
-https://docs.google.com/spreadsheets/d/1sw2UcTfVzsU6HzPVFHpL1eiwJjidKW0M/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true
-https://drive.google.com/file/d/1j5M_cUsbu_iP_IQNHfdMrRec_99jz4BZ/view?usp=sharing
-https://docs.google.com/document/d/1bJEq-3TgT0UYRcHA2MkIveRAQLMwbQi2/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true
+2. **Test Cases in Qase** - [ https://drive.google.com/file/d/1d8XuKC8ur-9m08zRhn_TeRbh_6486MTs/view?usp=sharing](#)
+   - Structured test cases for app testing.
+
+3. **Bug Reports in YouTrack** - [https://docs.google.com/spreadsheets/d/1sw2UcTfVzsU6HzPVFHpL1eiwJjidKW0M/edit?gid=1152643281#gid=1152643281](#)
+   - Reported issues found during testing.
+
+4. **Test Running in Qase** - [https://drive.google.com/file/d/1j5M_cUsbu_iP_IQNHfdMrRec_99jz4BZ/view](#)
+   - Execution of test cases with results.
+
+5. **Test Summary Report** - [https://docs.google.com/document/d/1bJEq-3TgT0UYRcHA2MkIveRAQLMwbQi2/edit?rtpof=true&sd=true](#)
+   - Includes number of test cases executed, pass/fail rate, bug classification, and overall results.
+
 
 https://drive.google.com/file/d/1GYcGLFw2FFcfrf7t_K_XtmITzNYNuys3/view?usp=sharing
 https://drive.google.com/file/d/1oVBESqAwQD0-8MPfq9fIbNMNkCPVs4nd/view?usp=sharing
