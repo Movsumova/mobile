@@ -23,6 +23,6 @@ This repository contains test documentation for the **Shopping List** mobile app
 
 
 
-https://drive.google.com/file/d/1GYcGLFw2FFcfrf7t_K_XtmITzNYNuys3/view?usp=sharing
-https://drive.google.com/file/d/1oVBESqAwQD0-8MPfq9fIbNMNkCPVs4nd/view?usp=sharing
-https://drive.google.com/file/d/1u9eLirm7_kO0vALNudriWX1PPpAgCgP-/view?usp=sharing
+
+
+
